@@ -1,0 +1,207 @@
+2021のマットさんのステートオブザワードのQAの動画の一部の英語を日本語に翻訳する作業途中です。
+
+https://www.youtube.com/watch?v=AuyElxQzvIk
+
+13:40～
+What advice do you have for young people usign WordPress?
+
+Ali.
+アリです。
+
+Hi Ali.
+アリさん、よろしくお願いします。
+
+Hi Matt.
+マットさん、こちらこそよろしくお願いします。
+
+I create a lot of content around WordPress for the people who are looking at WordPress in front of them for the first time looking to, you know, build something with it having never used it before.
+
+私は、WordPressで初めてコンテンツを作ろうとしている人のために、たくさんのコンテンツを作っています。
+
+And I think a lot about the young people who are looking at WordPress as a path to something, as a path to improving their life or brightening their future whatever that might be.
+
+私は、WordPressを何かをつかむための道とみたり、人生を良くしたり、明るい未来を作るものとして注目している若い人々についてよく考えます。
+
+And I know that we have in the live stream right now a lot of young people watching, listening, and being inspired by this.
+
+そして私は、まさに今、多くの若い人がこのライブ配信を視聴して、刺激を受けていることを知っています。
+
+What advice would you have to those young people who are looking to inherit this world that we're leaving them?
+
+このような、次代を担う若い人々に対して、何かアドバイスがありますか？
+
+And what advice can you give them as far as using WordPress as a tool to improve what we're leaving them?
+
+そして、WordPressをツールとして使い、これからの時代をより良くしようとする若者に、何かアドバイスがありますか？
+
+No pressure.
+
+プレッシャーに感じないで。
+
+That's a cool one.
+
+クールな質問ですね。
+
+In my life, one of the most influential things I ever realized was that everything I was using, every piece of technology, every piece of furniture, every chair, everything was created by someone who wasn't that much different from me or people I knew. 
+
+僕の人生に最も大きな影響を与えた気づきの一つは、僕が使っているすべてのもの、技術、家具、椅子、全ては、誰か ──僕や僕が知っている人々とそう違わない人──の手によって作られたものだ、ということです。
+
+And so there's crafts that can be developed when you focus on an area. And in fact, with the internet, there's more and more of this through YouTube, Wikipedia, online blogs, etc.
+
+そして、あなたがそれにフォーカスすれば、身につけることができるたくさんの技術スキルがあります。実際、インターネットのYouTubeやWikipeciaやブログ等の情報によって、もっともっとたくさん見つけることができます。
+
+There's so much you can learn about pretty much any area that you're passionate about.
+
+あなたが情熱を傾けることができる、どんな領域においても、学べることは非常にたくさんあります。
+
+And I think, for me, and it might be Steve Jobs or someone else who talks about this, but just this idea that the things that I use and love are created by people not that much different from me was really powerful.
+
+そして私は、このこと、もしかするとスティーブ・ジョブズか誰かがいってたかもしれないけど、私が愛用しているものは、自分とそんなに違わない人々によって作られている、ということは、本当にパワフルなことだと思います。
+
+And that's part of what got me contributing to open source in the beginning. When I was - again, I got started on the forums of b2.
+
+そして、そのひとつのパートが、最初にオープンソースにコントリビュートを始めたことでした。それは、私が b2 のフォーラムへの投稿を始めたことです。
+
+So b2 is the predecessor to WordPress.
+
+b2 というのは、 WordPress の前身です。
+
+It had some forums, probably run by like phpBB or something.
+
+それには、多分phpBBかなにかで動いているいくつかのフォーラムがありました。
+
+And I just, at first, I was asking questions and then, later, I saw questions I had already asked being asked by other people.
+
+最初は、質問をして、そしてその後、同じ質問を他の人がしているのを見かけました。
+
+And I started answering them. I didn't know anything.
+
+そして私は、それらに答え始めました。私は何も知らなかったのです。
+
+I couldn't - I cannot overemphasize how ignorant I was, as a 17, 18, 19 year old kid in Houston, Texas, who had no formal training, no university courses, etc.
+
+いくら強調しても強調し過ぎることはないくらい、私は無知でした。10代後半のテキサス州ヒューストンの、正式なトレーニングをうけていない、大学で学ぶなどもしていない、少年でした。
+
+So I think what's exciting about the digital economy is that, in this Openverse that we're trying to create together, it doesn't matter who you are, where you're from, or anything like that.
+
+私がデジタル経済についてエキサイティングだと思うのは、この、私達が一緒につくろうとしているオープンバースにおいては、誰でも、出身地とか、そいったことが一切関係が無い、ということです。
+
+It matters what you contribute. And learning to contribute has never been more accessible and more open source more open.
+
+重要なのは、あなたが何を貢献するか、です。そして、貢献について学ぶことは、かつてない程にアクセシブルになり、そして、オープンソースにより、よりオープンになりました。
+
+The other advice I'd give is that, when you're younger, you have a lot more time than you realize.
+
+別のアドバイスできることとしては、あなたが若いときには、あなたが思っている以上に、あなたにはたくさんの時間がある、ということです。
+
+And to try to invest that time - if there's anyone young listening to this - in what your passion is, you know.
+
+そして、その時間をなにか、あなたが情熱を感じることに投資することにトライする、ということです。もし若いひとがこれを聞いていたら。
+
+If you feel drawn to a particular area - I was actually shocked both in my own experience, and in seeing many other successful folks since then, in how being a world expert in XYZ - whatever XYZ is - is maybe 100 hours of work in some areas.
+
+もしあなたが何らかの領域に夢中になれると感じたら・・、私の経験上、私は本当にショックでした。そして他の多くの成功者をみたら・・、XYZ(これが何であれ）、100時間あればのエキスパートになることができます。
+
+Maybe 200 hours of work. But when you're young, you have a lot more hours than folks who maybe are providing for the family or full-time jobs or other things.
+
+もしかすると200時間かも知れませんけれども。しかし、もしあなたが若かったら、
+（大人になって）家族を養ったり、フルタイムの仕事をしているような人々に比べて、多くの時間があります。
+
+So really embrace(機会を利用する) that opportunity of both school, education, literature available to you, etc. to try to consume and absorb（吸収する） as much of it as possible.
+
+なので、ぜひ、学校などで教育を受けたり、文献などがあれば、ぜひそれで学んで欲しいと思います。
+
+
+I feel so much - one of my only regrets as a almost 38 year old is that I didn't pay as much attention when I was in school.
+
+私は、これまでの約38年間の中で、すごく後悔していることのひとつは、学校に全然興味がなかったことです。
+
+And I went to all public schools in Houston. But I had some amazing teachers, like the text I was given, the literature, etc. was free or inexpensive, and was really passion from these teachers of some of the best things that humanity has created so far.
+
+私は、ヒューストンの公立の学校に行っていました。しかし、私には何人かの驚くべき先生がいました。テキストや、文献のように。それらは無料、もしくは安価でした。そして、熱意を持ってヒューマニティにより形作られたものでした。
+
+
+So check that out. And the code equivalent(同等の) of that is WordPress in a lot of ways. Meaning that, again, you can think of the other largest Internet services in the world - Amazon, Microsoft, Facebook, etc.
+
+なので、WordPressのようなコードを、色々な方法でぜひチェックしてみてください。つまり、あなたは、他の、世界でもっとも大きなインターネットサービスのことを考えるかも知れません。アマゾンや、マイクロソフトや、フェイスブックなど。
+
+
+You can't go and look at how they work. You can't suggest a change to how the Google homepage works or the Facebook algorithm or anything like that.
+
+あなたは、そういったサービスが動く仕組み（プログラム）を見ることはできません。GoogleのホームページやFacebookのアルゴリズムの改善提案をすることもできません。
+
+Those are all proprietary.
+それらはすべてプロプライエタリーです。
+
+
+With things like Wikipedia and WordPress, it's all open source. Which means that you could suggest a change of the WP admin homepage, which hundreds of thousands of millions of people see and impacts a lot of folks.
+
+Wikipedia や WordPressのようなものは、全てオープンソースです。これは、あなたがWordPressの管理画面の改善提案ができる、ということを意味しています。これは、何十億もの人々にインパクトを与えることができることなのです。
+
+
+So open source for me was a huge enabler(可能にするもの) - again, not growing up in the Bay area or the traditional, like, Seattle or other traditional centers of technology.
+
+改めて、私にとって、オープンソースは、巨大な可能性をもったものです。もしベイエリアではないところ、例えばシアトルや、他の伝統的な技術の中心地で育っていなかったとしても。
+
+It was really exciting for me. So I'll start with that. Hopefully, I guess folks and maybe younger folks like something to start with.
+
+それは私にとって、とてもエキサイティングなことです。願わくば、何かを始めようとする、より若い人々にとってそうであって欲しいと願います。
+
+
+And I saw Josepha raise her hand, so maybe you have something to add there. 
+
+そして、私は、Josephaが手を挙げているのをみました。なので、あなたは何か言いたいことがありますよね。
+
+- I do. I also have an additional thing.
+
+はい、私は追加して言いたいことがあります。
+
+Can I introduce you really quick?
+あなたを簡単にご紹介しても良いですか？
+
+- Of course.
+
+もちろんです。
+
+So Josepha is the lead of WordPress.org. So she - she is - all of the cool things we talked about around like the Directories, etc.
+
+Josephaは、WordPress.orgのリードを努めています。なので、彼女が、これまで話たような、ディレクトリーなどを良い感じにする全てをリードしてくれているのです。
+
+Josepha is in charge of that. So she really leads the community development of WordPress.org. Everything around that. So thank you, Josepha. And now 
+
+彼女はそれを任されています。なので、彼女は本当にWordPress.orgのコミュニティ開発をリードしてくれています。それに関する全てのことを。本当にありがとう、Josepha。それで…？
+
+- And now this. So I think also one of the most important things - where am I looking? I'm going to look at you, Matt.
+
+そうですね、私が見ている最も重要なことの一つはなにか？今はMatt、あなたを見ています。
+
+
+Also, one really important thing to remember for people who are getting started with WordPress for the first time is that the open source nature of it does mean that we also have really active and passive ways to learn some of the most vital 21st century skills that the workforce of the future will need. We need it now.
+
+そして、WordPressを始める人々にとって本当に重要なことがひとつあります、それは、これからの未来に必要となる、21世紀のスキルの中でもっともアクティブでパッシブな方法である、そのオープンソースネイチャー学ぶ方法であるということ。我々には今それが必要なのです。
+
+
+But not all of us actually are any good at it in the world. WordPressers are generally really really good at it.
+
+しかし、世界の中で、我々の全てが実際にはそれに長けているわけではありません。WordPresserは、一般的に、本当に本当のそれに長けています。
+
+
+And there's a reason for it. It's because we do it every day. And so like that, in the immediate - in my immediate advice that I can give to people, that is the number one thing.
+
+そして、それには理由があります。それは、我々がそれを毎日やっているからです
+。そんな感じのことが、私がさしあたって人々にアドバイスできることのナンバーワンのことです。
+
+
+Like, observe(観察する、監視する) the way that this works, because it's going to be relevant from here until they're done wanting to work.
+
+
+
+
+
+Anything else in the audience? Because we have an unusual audience here. Here we go. Do you mind introducing yourself really quick?
+
+
+
+
+
+
